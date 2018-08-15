@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "22724146943",
+    "firebase_url": "https://jhonattendance.firebaseio.com",
+    "project_id": "jhonattendance",
+    "storage_bucket": "jhonattendance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22724146943:android:0952ab45951aa895",
+        "android_client_info": {
+          "package_name": "com.example.attendancegame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22724146943-jvmd9djn262n6v4atklfcbrm8evqr4nb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM3WPeGROC4OgeyXh3a_DUGRtbTp-ORns"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
