@@ -12,6 +12,10 @@ dependencies:
   barcode_scan: ^0.0.4
   qr_flutter: ^1.1.1
   path_provider: 0.4.1
+  timezone: ^0.4.2
+  firebase: '^4.3.0'
+  firebase_database: ^1.0.3
+  
 
 dev_dependencies:
   flutter_test:
