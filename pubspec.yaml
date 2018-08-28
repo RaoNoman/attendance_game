@@ -15,7 +15,8 @@ dependencies:
   timezone: ^0.4.2
   firebase: '^4.3.0'
   firebase_database: ^1.0.3
-  
+  google_sign_in: ^3.0.5
+  firebase_auth: ^0.5.19
 
 dev_dependencies:
   flutter_test:
